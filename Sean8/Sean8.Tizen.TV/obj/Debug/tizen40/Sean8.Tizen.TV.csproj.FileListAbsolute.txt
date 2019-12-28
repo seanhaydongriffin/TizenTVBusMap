@@ -1,0 +1,12 @@
+R:\Sean8\Sean8\Sean8\Sean8.Tizen.TV\bin\Debug\tizen40\Sean8.Tizen.TV.deps.json
+R:\Sean8\Sean8\Sean8\Sean8.Tizen.TV\bin\Debug\tizen40\Sean8.Tizen.TV.dll
+R:\Sean8\Sean8\Sean8\Sean8.Tizen.TV\bin\Debug\tizen40\Sean8.Tizen.TV.pdb
+R:\Sean8\Sean8\Sean8\Sean8.Tizen.TV\bin\Debug\tizen40\Sean8.dll
+R:\Sean8\Sean8\Sean8\Sean8.Tizen.TV\bin\Debug\tizen40\Sean8.pdb
+R:\Sean8\Sean8\Sean8\Sean8.Tizen.TV\obj\Debug\tizen40\Sean8.Tizen.TV.csprojAssemblyReference.cache
+R:\Sean8\Sean8\Sean8\Sean8.Tizen.TV\obj\Debug\tizen40\Sean8.Tizen.TV.csproj.CoreCompileInputs.cache
+R:\Sean8\Sean8\Sean8\Sean8.Tizen.TV\obj\Debug\tizen40\Sean8.Tizen.TV.AssemblyInfoInputs.cache
+R:\Sean8\Sean8\Sean8\Sean8.Tizen.TV\obj\Debug\tizen40\Sean8.Tizen.TV.AssemblyInfo.cs
+R:\Sean8\Sean8\Sean8\Sean8.Tizen.TV\obj\Debug\tizen40\Sean8.Tizen.TV.csproj.CopyComplete
+R:\Sean8\Sean8\Sean8\Sean8.Tizen.TV\obj\Debug\tizen40\Sean8.Tizen.TV.dll
+R:\Sean8\Sean8\Sean8\Sean8.Tizen.TV\obj\Debug\tizen40\Sean8.Tizen.TV.pdb

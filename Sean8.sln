@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sean8", "Sean8\Sean8\Sean8.csproj", "{9549FAEB-1C55-4FF4-8070-0B71660301A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sean8.Tizen.TV", "Sean8\Sean8.Tizen.TV\Sean8.Tizen.TV.csproj", "{9334B59D-980B-4699-99AF-21ACF73015BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9549FAEB-1C55-4FF4-8070-0B71660301A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9549FAEB-1C55-4FF4-8070-0B71660301A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9549FAEB-1C55-4FF4-8070-0B71660301A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9549FAEB-1C55-4FF4-8070-0B71660301A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9334B59D-980B-4699-99AF-21ACF73015BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9334B59D-980B-4699-99AF-21ACF73015BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9334B59D-980B-4699-99AF-21ACF73015BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9334B59D-980B-4699-99AF-21ACF73015BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C9CB465-AA02-47A7-B911-92CBEF2EC174}
+	EndGlobalSection
+EndGlobal

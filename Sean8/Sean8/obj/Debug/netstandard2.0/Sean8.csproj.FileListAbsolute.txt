@@ -1,0 +1,10 @@
+R:\Sean8\Sean8\Sean8\Sean8\bin\Debug\netstandard2.0\Sean8.deps.json
+R:\Sean8\Sean8\Sean8\Sean8\bin\Debug\netstandard2.0\Sean8.dll
+R:\Sean8\Sean8\Sean8\Sean8\bin\Debug\netstandard2.0\Sean8.pdb
+R:\Sean8\Sean8\Sean8\Sean8\obj\Debug\netstandard2.0\Sean8.csproj.CoreCompileInputs.cache
+R:\Sean8\Sean8\Sean8\Sean8\obj\Debug\netstandard2.0\Sean8.AssemblyInfoInputs.cache
+R:\Sean8\Sean8\Sean8\Sean8\obj\Debug\netstandard2.0\Sean8.AssemblyInfo.cs
+R:\Sean8\Sean8\Sean8\Sean8\obj\Debug\netstandard2.0\Sean8.dll
+R:\Sean8\Sean8\Sean8\Sean8\obj\Debug\netstandard2.0\Sean8.pdb
+R:\Sean8\Sean8\Sean8\Sean8\obj\Debug\netstandard2.0\Sean8.csprojAssemblyReference.cache
+R:\Sean8\Sean8\Sean8\Sean8\obj\Debug\netstandard2.0\XamlC.stamp
